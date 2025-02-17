@@ -1,0 +1,1 @@
+This repository contains some of the task that was carried on using ROS2 Jazzy. I have created some python based nodes that use the turtlesim and its parameters to publish and subcribe values. Kinldy understand, you need to install respective ROS positories and to have knowledge of command links to use these files. 
